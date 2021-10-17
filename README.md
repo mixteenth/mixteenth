@@ -1,24 +1,22 @@
 ## Hello
 
-I'm David (he/him). I work in software and try to focus on healthy, sustainable improvement: whether it be a system or a team.
+I'm David (he/him). I work in software and try to focus on healthy, sustainable improvement of systems and teams.
 
+## Working On
 
-
-## Writing
-
+### Remote Work
 - Check out my practical guide to remote work: [Navigating Remote Work](http://navigatingremotework.com)
 - Signup for my [remote work newsletter](https://remoteworkguides.com/).
 - 💬 Ask me about remote work, I'm happy to help! 
-- Writing at: [blog.davidtate.org](http://blog.davidtate.org)
+- Other writing at: [blog.davidtate.org](http://blog.davidtate.org)
 
-## Working On
+### Other Stuff
 - 🌱 I’m currently learning `golang`
-
-- [10xdebugger](http://10xdebugger.com)
-- [DIY Tech MBA](https://mixteenth.github.io/diytechmba.github.io/)
+- Currently writing a practical guide to becoming a better problem solver: [10xdebugger](http://10xdebugger.com)
+- Working my way through a self-taught Masters of Business Administration: [DIY Tech MBA](https://mixteenth.github.io/diytechmba.github.io/)
 
 ## Contact
-- [twitter - mixteenth](http://twitter.com/mixteenth)
+- [@mixteenth](http://twitter.com/mixteenth)
 - [LinkedIn](https://www.linkedin.com/in/davidmtate/)
 
 

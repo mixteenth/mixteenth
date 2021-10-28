@@ -2,6 +2,9 @@
 
 I'm David (he/him). I work in software and try to focus on healthy, sustainable improvement of systems and teams.
 
+[![Linkedin: davidmtate](https://img.shields.io/badge/-davidmtate-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidmtate/)](https://www.linkedin.com/in/davidmtate/)
+[![GitHub iandouglas](https://img.shields.io/github/followers/mixteenth?label=follow&style=social)](https://github.com/mixteenth )
+
 ## Working On
 
 ### Remote Work

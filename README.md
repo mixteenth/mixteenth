@@ -13,9 +13,9 @@ I'm David (he/him). I work in software and try to focus on healthy, sustainable 
 - 💬 Ask me about remote work, I'm happy to help! 
 - Other writing at: [blog.davidtate.org](http://blog.davidtate.org)
 
-### Other Stuff
-- 🌱 I’m currently learning `golang`
-- Currently writing a practical guide to becoming a better problem solver: [10xdebugger](http://10xdebugger.com)
+### I'm currently
+- 🌱 Learning `golang`
+- Writing a practical guide to becoming a better problem solver: [10xdebugger](http://10xdebugger.com)
 - Working my way through a self-taught Masters of Business Administration: [DIY Tech MBA](https://mixteenth.github.io/diytechmba.github.io/)
 
 ## Contact

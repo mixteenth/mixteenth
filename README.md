@@ -11,7 +11,6 @@ I'm David (he/him). I work in software and try to focus on healthy, sustainable 
 - Check out my practical guide to remote work: [Navigating Remote Work](http://navigatingremotework.com)
 - Signup for my [remote work newsletter](https://remoteworkguides.com/).
 - 💬 Ask me about remote work, I'm happy to help! 
-- Other writing at: [blog.davidtate.org](http://blog.davidtate.org)
 
 ### I'm currently
 - 🌱 Learning `golang`

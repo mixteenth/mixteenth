@@ -9,7 +9,7 @@ I'm David (he/him). I work in software and try to focus on healthy, sustainable 
 
 ### Remote Work
 - Check out my practical guide to remote work: [Navigating Remote Work](http://navigatingremotework.com)
-- Signup for my [remote work newsletter](https://remoteworkguides.com/).
+- Signup for my [Bad Software Advice](https://badsoftwareadvice.substack.com/about) newsletter.
 - 💬 Ask me about remote work, I'm happy to help! 
 
 ### I'm currently
